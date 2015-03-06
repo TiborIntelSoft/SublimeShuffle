@@ -93,7 +93,7 @@
         </dict>
         <dict>
           <key>include</key>
-          <string>source.shuffleconditionalnestingsnippet</string>
+          <string>source.ShuffleNestedSnippets</string>
         </dict>
       </array>
     </dict>
