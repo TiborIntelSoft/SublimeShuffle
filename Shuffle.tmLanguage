@@ -99,6 +99,6 @@
     </dict>
   </dict>
   <key>scopeName</key>
-  <string>source.shufflebase</string>
+  <string>source.shuffle</string>
 </dict>
 </plist>
