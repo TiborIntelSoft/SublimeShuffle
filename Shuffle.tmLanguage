@@ -89,11 +89,11 @@
       <array>
         <dict>
           <key>include</key>
-          <string>#conditionalNesting</string>
+          <string>source.ShuffleNestedSnippets</string>
         </dict>
         <dict>
           <key>include</key>
-          <string>source.ShuffleNestedSnippets</string>
+          <string>#nestedNormalShuffle</string>
         </dict>
       </array>
     </dict>

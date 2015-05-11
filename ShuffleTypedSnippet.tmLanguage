@@ -39,7 +39,7 @@
     <key>haddockShuffle</key>
     <dict>
       <key>begin</key>
-      <string>(\%\%\[).*(haddock).*$</string>
+      <string>(\%\%\[).*( haddock)[\s].*$</string>
       <key>beginCaptures</key>
       <dict>
         <key>1</key>
@@ -112,7 +112,7 @@
     <key>lhsShuffle</key>
     <dict>
       <key>begin</key>
-      <string>(\%\%\[).*(lhs2tex).*$</string>
+      <string>(\%\%\[).*( lhs2tex)[\s].*$</string>
       <key>beginCaptures</key>
       <dict>
         <key>1</key>
@@ -193,7 +193,7 @@
     <key>latexShuffle</key>
     <dict>
       <key>begin</key>
-      <string>(\%\%\[).*(doclatex).*$</string>
+      <string>(\%\%\[).*( doclatex)[\s].*$</string>
       <key>beginCaptures</key>
       <dict>
         <key>1</key>
@@ -274,7 +274,7 @@
     <key>jsShuffle</key>
     <dict>
       <key>begin</key>
-      <string>(\%\%\[).*(javascript).*$</string>
+      <string>(\%\%\[).*( javascript)[\s].*$</string>
       <key>beginCaptures</key>
       <dict>
         <key>1</key>
@@ -436,7 +436,7 @@
     <key>agShuffle</key>
     <dict>
       <key>begin</key>
-      <string>(\%\%\[).*(ag).*$</string>
+      <string>(\%\%\[).*( ag)[\s].*$</string>
       <key>beginCaptures</key>
       <dict>
         <key>1</key>
